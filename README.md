@@ -8,4 +8,5 @@
 - [Hw1 final](https://github.com/yiii1014/114-2-/blob/main/HW1_日常支出速算與分攤_new.ipynb)
 - [Hw2 Part1](https://github.com/yiii1014/114-2-/blob/main/「HW2_成績一本通_ipynb」的副本.ipynb)
 - [Hw2 Part2](https://youtu.be/et_YjjIDo94?si=wAJvtWN0p0rNdRXV)
+- [Hw3](https://youtu.be/1YSM_k-Gz98?si=ze6ONj1T2HEB_Hss)
 ## 專題連結區
